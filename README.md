@@ -21,6 +21,13 @@
 
 - Built a contact form for user input.
 
+# Analysis Included
+- Tested form behavior and visual responsiveness.
+
+- Verified JavaScript prompt function works when clicking "Say Hello".
+
+- Checked layout consistency and styling across screen sizes.
+
 # Key Insights
 - Clean UI design improves readability and user experience.
 
